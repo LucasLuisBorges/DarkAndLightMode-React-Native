@@ -12,7 +12,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 Clone o projeto:
 
 ```
-git https://github.com/LucasLuisBorges/DarkAndLightMode-React-Native.git
+git clone https://github.com/LucasLuisBorges/DarkAndLightMode-React-Native.git
 ```
 
 execute o comando:
@@ -32,10 +32,10 @@ Termine com um exemplo de como obter dados do sistema ou como usá-los para uma 
 
 ## 🛠️ Construído com
 
-* [React-Native](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
-* [TypeScript](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Expo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-* [Styled-Components](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [React-Native](https://reactnative.dev/) 
+* [TypeScript](https://www.typescriptlang.org/)
+* [Expo](https://expo.dev/)
+* [Styled-Components](https://styled-components.com/)
 
 ## 🎁 Expressões de gratidão
 
