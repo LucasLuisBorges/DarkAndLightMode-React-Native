@@ -1,6 +1,6 @@
 # DarkAndLightMode-React-Native
 
-Uma base de App já configurado para ter o modo Dark e Light
+Uma base de App já configurado para ter o modo Dark e Light no seu projeto
 
 ## 🚀 Começando
 
